@@ -88,11 +88,6 @@ LSTM for Time Series Forecasting	https://www.analyticsvidhya.com/blog/2021/10/ls
  Feature Engineering	https://www.analyticsvidhya.com/blog/2020/04/what-is-feature-engineering/
  Deploy ML Models	https://www.analyticsvidhya.com/blog/2021/06/how-to-deploy-machine-learning-model-using-streamlit/
 
-3. W3Schools
-Topic	Link
-Python Basics	https://www.w3schools.com/python/
-Working with Files	https://www.w3schools.com/python/python_file_handling.asp
-Pandas Tutorial	https://www.w3schools.com/python/pandas/default.asp Numpy Tutorial	https://www.w3schools.com/python/numpy/default.asp
 
 
 
