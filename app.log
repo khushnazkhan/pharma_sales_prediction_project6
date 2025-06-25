@@ -1,0 +1,18 @@
+2025-06-14 02:50:17,087 - INFO - This is a info message
+2025-06-14 02:50:17,090 - WARNING - This ia a warning message
+2025-06-14 02:50:17,091 - ERROR - This is a error message
+2025-06-14 02:50:17,093 - CRITICAL - This is a critical message
+2025-06-14 02:50:17,095 - ERROR - This is a exception message
+NoneType: None
+2025-06-14 02:51:24,796 - INFO - This is a info message
+2025-06-14 02:51:24,799 - WARNING - This ia a warning message
+2025-06-14 02:51:24,801 - ERROR - This is a error message
+2025-06-14 02:51:24,804 - CRITICAL - This is a critical message
+2025-06-14 02:51:24,806 - ERROR - This is a exception message
+NoneType: None
+2025-06-14 03:01:27,718 - INFO - This is a info message
+2025-06-14 03:01:27,721 - WARNING - This ia a warning message
+2025-06-14 03:01:27,723 - ERROR - This is a error message
+2025-06-14 03:01:27,724 - CRITICAL - This is a critical message
+2025-06-14 03:01:27,726 - ERROR - This is a exception message
+NoneType: None
